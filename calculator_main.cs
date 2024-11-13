@@ -1,12 +1,12 @@
 ﻿/*This program is standed calcletor made in C#*/
 
-//Enable the namespace just in case i want to use it leater
-namespace Calicator
+//Enable the namespace just in case i want to use it later
+namespace Calculator
 {
     //put it in a class to help keep it orgnize
     public class Program
     {
-        //the main function ik this is old but it still wwork
+        //the main function ik this is old but it still work
         public static void Main(string[] args)
         {
             //ask the user for input
